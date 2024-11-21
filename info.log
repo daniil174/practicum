@@ -1,0 +1,5 @@
+2024/11/06 20:40:37 main.go:24: Logging to a file in Go!
+2024/11/06 20:40:37 main.go:25: Logging in Go!
+2024/11/06 20:40:37 main.go:26: Fatal in Go!
+{"level":"warning","msg":"В 2021 году вышел новый альбом No Gods No Masters.","name":"Garbage","omg":true,"time":"2024-11-06T21:47:09+05:00"}
+{"level":"fatal","msg":"Группа Linkin Park взяла паузу после смерти вокалиста Честера Беннингтона 20 июля 2017 года.","name":"Linkin Park","omg":true,"time":"2024-11-06T21:47:09+05:00"}
